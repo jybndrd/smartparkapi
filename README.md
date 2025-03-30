@@ -1,5 +1,5 @@
 # Smart Park Api
-a smart parking api
+a smart parking api with Spring security and JWT Tokenization authentication filter
 
 
 ## Libraries/Tools Used
